@@ -1,7 +1,8 @@
 <h2>💻 Desarrollador Oscar Alexander Jimenez...</h2>
 
-Construccion en aplicaciones web robustas y escalables con un enfoque en el rendimiendo del backend y una experiencia de usuario fluida.
-Mi stack principal se centra en:
+Construccion en aplicaciones web robustas y escalables con un enfoque en el rendimiendo del backend y una experiencia de usuario fluida con  interfaces modernas.
+
+<h3>Mi stack principal se centra en:</h3>
 
 -🐍 <b>Python:</b> Prefiero utilizar Python por su claridad y versatilidad para implementar lógica de negocio y soluciones de scripting. Estoy en proceso de profundizar patrones de diseño avanzados y optimización para lograr un manejo avanzado.
 
