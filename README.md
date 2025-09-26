@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Ttol8KldjmwGz2ts1x/giphy.gif" alt="Gif Personalizado" width="100%" />
+  <img src="https://media.giphy.com/media/Ttol8KldjmwGz2ts1x/giphy.gif" alt="Gif Personalizado" width="30%" />
 </div>
 💻 Desarrollador Oscar Alexander Jimenez...
 
