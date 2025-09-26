@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/Ttol8KldjmwGz2ts1x/giphy.gif" alt="Gif Personalizado" width="30%" />
-</div>
 💻 Desarrollador Oscar Alexander Jimenez...
 
 Construccion en aplicaciones web robustas y escalables con un enfoque en el rendimiendo del backend y una experiencia de usuario fluida.
