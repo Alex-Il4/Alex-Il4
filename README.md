@@ -1,5 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://drive.google.com/uc?id=1Ff7JaYr1ZV9RgTDQ4wr8RbROh2VA9Dna&export=download" alt="Gif Personalizado" width="100%" />
+</div>
+💻 Desarrollador Oscar Alexander Jimenez...
 
+Construccion en aplicaciones web robustas y escalables con un enfoque en el rendimiendo del backend y una experiencia de usuario fluida.
+Mi stack principal se centra en:
+-🐍 Python: Prefiero utilizar Python por su claridad y versatilidad para implementar lógica de negocio y soluciones de scripting. Estoy en proceso de profundizar patrones de diseño avanzados y optimización para lograr un manejo avanzado.
+-🔐 Django REST Framework: Tengo un conocimiento en la creación de APIs RESTful bien estructuradas, enfocándome en la serialización y la gestión de datos. Mi objetivo es perfeccionar la seguridad, el rendimiento y la documentación automatizada para construir APIs de alto rendimiento.
+-🟢 Vue.js: Experiencia en el desarrollo de interfaces de usuario dinámicas y reactivas con un enfoque en componentes reutilizables.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex-Il4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 <!--
 **Alex-Il4/Alex-Il4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
