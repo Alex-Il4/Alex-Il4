@@ -1,4 +1,4 @@
-<h2>💻 Desarrollador Oscar Alexander Jimenez...</h2>
+<h2>💻 Desarrollador Oscar Alexander Jiménez...</h2>
 
 Construccion en aplicaciones web robustas y escalables con un enfoque en el rendimiendo del backend y una experiencia de usuario fluida con  interfaces modernas.
 
