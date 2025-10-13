@@ -6,7 +6,7 @@ Construccion en aplicaciones web robustas y escalables con un enfoque en el rend
 
 -🐍 <b>Python:</b> Prefiero utilizar Python por su claridad y versatilidad para implementar lógica de negocio y soluciones de scripting. Estoy en proceso de profundizar patrones de diseño avanzados y optimización para lograr un manejo avanzado.
 
--🔐 <b>Django REST Framework:</b> Manejo un conocimiento en la creación de APIs RESTful bien estructuradas, enfocándome en la serialización y la gestión de datos. Mi objetivo es perfeccionar la seguridad, el rendimiento y la documentación automatizada para construir APIs de alto rendimiento.
+-🔐 <b>Django REST Framework:</b> Manejo un conocimiento en la creación de APIs RESTful bien estructuradas, enfocándome en la serialización y la gestión de datos. Mi objetivo es perfeccionar la seguridad, el rendimiento y la documentación automatizada para construir APIs de alto rendimiento...
 
 -🟢 <b>Vue.js:</b> Experiencia en el desarrollo de interfaces de usuario dinámicas y reactivas con un enfoque en componentes reutilizables.
 <hr>
